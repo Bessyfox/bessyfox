@@ -16,5 +16,5 @@
 Люблю детективы 🕵 (смотреть и слушать).
 
 Связаться со мной можно через:
-- 📫 n.m.martynova@gmail.com
+- 📫 n.m.martynova@gmail.com или tsevelevanm@yandex.ru
 - 🔗 https://t.me/bessyfox
