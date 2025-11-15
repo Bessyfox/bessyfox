@@ -29,5 +29,5 @@
 
 
 Связаться со мной можно через:
-- 📫 n.m.martynova@gmail.com или tsevelevanm@yandex.ru
+- 📫 n.m.martynova@gmail.com
 - 🔗 https://t.me/bessyfox
