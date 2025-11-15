@@ -30,4 +30,4 @@
 
 Связаться со мной можно через:
 - 📫 n.m.martynova@gmail.com
-- 🔗 https://t.me/bessyfox
+- 📱 https://t.me/bessyfox
