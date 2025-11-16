@@ -28,6 +28,9 @@
 Люблю детективы 🕵 (смотреть и слушать).
 
 
+[Моё резюме на hh.ru](https://omsk.hh.ru/resume/8e2352b7ff0fac9d3f0039ed1f6d6a64584558)
+
+
 Связаться со мной можно через:
 - 📫 n.m.martynova@gmail.com
 - 📱 https://t.me/bessyfox
