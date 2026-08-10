@@ -7,6 +7,13 @@
 
 [Здесь](https://github.com/Bessyfox/Data-Analyst-Portfolio) публикую примеры приобретённых мною скиллов в этой профессии (учебные и дополнительные проекты).
 
+Используемые технологии:
+- SQL (PostgreSQL, ClickHouse)
+- Python (pandas, numpy, matplotlib, seaborn)
+- BI: Yandex Datalens
+- Big Data: PySpark, Airflow
+- Инструменты: JupyterLab, DBeaver
+
 
 Я живу в Омске. Это крупный город на юге Западной Сибири (+3 часа к московскому времени). 
 
