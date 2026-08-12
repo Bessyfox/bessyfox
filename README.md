@@ -12,7 +12,7 @@
 - Python (pandas, numpy, matplotlib, seaborn)
 - BI: Yandex Datalens
 - Big Data: PySpark, Airflow
-- Инструменты: JupyterLab, DBeaver
+- Инструменты: DBeaver, JupyterNotebook
 
 
 Я живу в Омске. Это крупный город на юге Западной Сибири (+3 часа к московскому времени). 
