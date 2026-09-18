@@ -5,7 +5,7 @@
 Я прошла профессиональную переподготовку по программе «Аналитик данных расширенный со специализацией «Продуктовый аналитик» [на платформе «Яндекс Практикум»](https://practicum.yandex.ru/data-analyst/?from=catalog).
 
 
-[Здесь](https://github.com/Bessyfox/Data_Analyst_Portfolio/tree/main) публикую примеры применения приобретённых мною скиллов в этой профессии.
+[Здесь](https://github.com/Bessyfox/Data_Analyst_Portfolio/tree/main) опубликованы выборочные примеры применения моих скиллов в этой профессии.
 
 Используемые технологии:
 - SQL (PostgreSQL, ClickHouse)
