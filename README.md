@@ -12,7 +12,9 @@
 - Python (pandas, numpy, matplotlib, seaborn)
 - BI: Yandex Datalens
 - Big Data: PySpark, Airflow
-- Инструменты: DBeaver, JupyterNotebook
+- Инструменты: DBeaver, JupyterNotebook, GoogleColab, GoogleSheets, LLM
+
+В настоящее время прохожу 3-месячный интенсив по нейросетям для анализа данных и продолжаю работу над PET-проектами и проектами Мастерской Яндекса.
 
 
 Я живу в Омске. Это крупный город на юге Западной Сибири (+3 часа к московскому времени). 
